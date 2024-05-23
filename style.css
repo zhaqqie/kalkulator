@@ -4,7 +4,7 @@
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;
-    background-color: #81f6f0; /* Warna latar belakang */
+    background-color: #81f6f0; 
 }
 
 #display {
@@ -14,7 +14,7 @@
     font-size: 18px;
     border: 1px solid #3cb8ed;
     border-radius: 5px;
-    background-color: rgb(240, 115, 115); /* Warna latar belakang display */
+    background-color: rgb(240, 115, 115); 
 }
 
 .buttons {
@@ -29,12 +29,12 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #dbe142; /* Warna tombol */
-    color: white; /* Warna teks tombol */
+    background-color: #dbe142; 
+    color: white; 
 }
 
 button:hover {
-    background-color: #45a049; /* Warna tombol saat dihover */
+    background-color: #45a049; 
 }
 
 
